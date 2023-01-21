@@ -22,7 +22,7 @@ please see the document [How to Contribute](https://github.com/cjramseyer/Genera
 * [Coding Guidelines](https://github.com/cjramseyer/General/wiki/Coding-Guidelines)
 * [Submitting pull requests](https://github.com/cjramseyer/General/wiki/How-to-Contribute#pull-requests)
 
-Please see also our [Code of Conduct](CODE_OF_CONDUCT.md).
+Please see also the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Feedback
 
@@ -33,10 +33,8 @@ Please see also our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Related Projects
 
-Many scripts and modules live in their own repositories on GitHub. For example, the [HomeAssistant](https://github.com/cjramseyer/hassio) and the [ModeRed](https://github.com/cjramseyer/nodered).
-
-For a complete list, please see the [Related Projects](https://github.com/cjramseyer/General/wiki/Related-Projects) page on our wiki.
+Many scripts and modules live in their own repositories on GitHub. For example, the [HomeAssistant](https://github.com/cjramseyer/hassio) and [NodeRed](https://github.com/cjramseyer/nodered).
 
 ## License
 
-Copyright (c) Ford Motor Company. All rights reserved.
+Copyright (c) 2018-2023, CJ Ramseyer, All rights reserved.
