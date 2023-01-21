@@ -1,7 +1,8 @@
 # smart_doorbell
 Design, Setup, Install for the Smart Doorbell
 
-[Email/DirectoryEngineering GitHub](https://github.com/cjramseyer/smart_doorbell) is a repository for the design, build, and installation of a smart doorbell based on an ESP8266 (Arduino or NodeMCU)
+[SmartDoorBell](https://github.com/cjramseyer/smart_doorbell) is a repository for the design, build, and installation of a smart doorbell based on an ESP8266 (Arduino or NodeMCU) that is specifically designed to work with legacy doorbell systems.
+Typical Smart Doorbells require the replacement of the traditional button and chime.  This design adds smarts to an existing doorbell system.  This can then be integrated with Home Assistant (my choice) or other SmartHome setups such as Hubitat, SmartThings, etc.  This is dependant on ESPHome, but could be adapted to other solutions as well.
 
 These scripts are updated frequently based on numerous requirements from consumers and maintaining and N-1 upgrade strategy.
 
