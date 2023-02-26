@@ -1,7 +1,11 @@
-input_text:
+input_datetime:
   last_front_door_time:
     name: "Last Front Door Time"
-    initial: 00:00:00
+    has_date: true
+    has_time: true
+    initial: "2023-01-01 00:00:00"
   last_side_door_time:
     name: "Last Side Door Time"
-    initial: 00:00:00
+    has_date: true
+    has_time: true
+    initial: "2023-01-01 00:00:00"
