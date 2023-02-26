@@ -15,7 +15,7 @@ Plus, I don't need one of the "smart" doorbells, that are either wireless, and t
 This way, our doorbell can stay just the way it is, and should we move, just take this module with us.
 
 I do my automations using NodeRed, so I have a simple flow to update the last date and time each of the doorbells was rang.
-![](images/table%201-1.png)
+![](https://github.com/cjramseyer/smart_doorbell/blob/master/Doorbell_automation-nodered.JPG)
 
 This can be expanded if necessary for additional doors, and can certainly have additional sensors, I just used 2 of the GPIO pins, but this could easily support 8 of them.
 
