@@ -6,32 +6,13 @@ Typical Smart Doorbells require the replacement of the traditional button and ch
 
 These scripts are updated frequently based on numerous requirements from consumers and maintaining and N-1 upgrade strategy.
 
-The [`various`](https://github.com/cjramseyer) repositories are where I do development and there are many ways you can participate in the project, for example:
+My office during the day is located in our basement.  If I am on a call and someone rings the doorbell, I am not likely to hear it with my headset on.
+I wanted to have an option to enable an automation that would alert me that someone rang the doorbell.
+I also wanted to have the ability to send an alert to our phones when we are not home, and show us a camera feed or image.
 
-* [Submit bugs and feature requests](https://github.com/cjramseyer/templates/issues) and help me verify as changes/updates are checked in
-* Review [source code changes](https://github.com/cjramseyer/templates/pulls)
-* Review the [documentation](https://github.com/cjramseyer/General/docs) and make requests (via issues - above) for anything from typos to new content
-
-## Contributing
-
-If you are interested in fixing issues and contributing directly to the code base,
-please see the document [How to Contribute](https://github.com/cjramseyer/General/wiki/How-to-Contribute), which covers the following:
-
-* [How to build and run from source](https://github.com/cjramseyer/General/wiki/How-to-Contribute#build-and-run-from-source)
-* [The development workflow, including debugging and running tests](https://github.com/cjramseyer/General/wiki/How-to-Contribute#development-workflow)
-* [Coding Guidelines](https://github.com/cjramseyer/General/wiki/Coding-Guidelines)
-* [Submitting pull requests](https://github.com/cjramseyer/General/wiki/How-to-Contribute#pull-requests)
-
-Please see also the [Code of Conduct](CODE_OF_CONDUCT.md).
-
-## Feedback
-
-* Ask a question on [general issues](https://github.com/cjramseyer/General/issues).
-* Request a new feature on [GitHub](https://github.com/cjramseyer/General/wiki/CONTRIBUTING.md).
-* Vote for [popular feature requests](https://github.com/cjramseyer/General/wiki/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc).
-* File a bug in [GitHub Issues](https://github.com/cjramseyer/General/issues).
-
-## Related Projects
+Using this method, I am able to use our traditional DUMB doorbell (no rewiring necessary)
+Plus, I don't need one of the "smart" doorbells, that are either wireless, and totally lacking in privacy, or simply don't function well.
+This way, our doorbell can stay just the way it is, and should we move, just take this module with us.
 
 Many scripts and modules live in their own repositories on GitHub. For example, the [HomeAssistant](https://github.com/cjramseyer/hassio) and [NodeRed](https://github.com/cjramseyer/nodered).
 
