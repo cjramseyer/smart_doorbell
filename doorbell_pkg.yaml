@@ -1,0 +1,5 @@
+input_text:
+  last_front_door_time:
+    name: "Last Front Door Time"
+  last_side_door_time:
+    name: "Last Side Door Time"
