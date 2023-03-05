@@ -17,7 +17,7 @@ This way, our doorbell can stay just the way it is, and should we move, just tak
 I do my automations using NodeRed, so I have a simple flow to update the last date and time each of the doorbells was rang.
 ![](https://github.com/cjramseyer/smart_doorbell/blob/master/Doorbell_automation-nodered.JPG)
 
-This can be expanded if necessary for additional doors, and can certainly have additional sensors, I just used 2 of the GPIO pins, but this could easily support 8 of them.
+This can be expanded if necessary for additional doors, and can certainly have additional sensors, I just used 4 (2 are just ground) of the GPIO pins, but this could easily support up to 8 distinct buttons for sensors.
 
 Many scripts and modules live in their own repositories on GitHub. For example, the [HomeAssistant](https://github.com/cjramseyer/hassio) and [NodeRed](https://github.com/cjramseyer/nodered).
 
